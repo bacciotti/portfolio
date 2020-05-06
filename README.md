@@ -6,19 +6,17 @@
 - [IFTM](https://iftm.edu.br/)
 
 ### Wordpress
-- [IFTM](https://iftm.edu.br/)
-- [IFTM](https://iftm.edu.br/)
-- [IFTM](https://iftm.edu.br/)
-- [IFTM](https://iftm.edu.br/)
-- [IFTM](https://iftm.edu.br/)
-- [IFTM](https://iftm.edu.br/)
-- [IFTM](https://iftm.edu.br/)
-- [IFTM](https://iftm.edu.br/)
-
-
+- [SIM-CIDES](http://simcides.com.br/)
+- [CIDES](http://cides.com.br/)
+- [Canápolis](http://canapolis.mg.gov.br/)
+- [Tupaciguara](http://www.tupaciguara.mg.gov.br/)
+- [Midiática](http://midiatica.com/)
+- [Bacciotti Cursos](http://baciotticursos.com.br/)
+- [BT Engenharia](http://bt.eng.br/)
 
 ### Online courses
 - [Udemy](https://www.udemy.com/user/lucasbaciotti/)
+- [Bacciotti Cursos](http://baciotticursos.com.br/)
 
 ### Other projects & Scripts
 - [GitHub](https://github.com/bacciotti?tab=repositories)
@@ -29,5 +27,4 @@
 - [Podcast](https://anchor.fm/bacciotti)
 
 ### Support or Contact
-
 - [@baciotti](https://twitter.com/baciotti)
