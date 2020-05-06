@@ -13,6 +13,7 @@
 - [Midiática](http://midiatica.com/)
 - [Bacciotti Cursos](http://baciotticursos.com.br/)
 - [BT Engenharia](http://bt.eng.br/)
+  
   ... and more.
 
 ### Online courses
@@ -22,6 +23,7 @@
 ### Other projects & Scripts
 - [GitHub](https://github.com/bacciotti?tab=repositories)
 - [Escreval](https://www.escreval.com/)
+  
   ... and more.
 
 ### Audio & Video
